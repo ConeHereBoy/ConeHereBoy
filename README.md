@@ -1,5 +1,5 @@
 
-game:GetService("StarterGui"):SetCore("DevConsoleVisible",true); warn("Exed")
+game:GetService("StarterGui"):SetCore("DevConsoleVisible",true); warn("TKRaz:Coder")
 
 local workspace = game:GetService("Workspace")
 local RunService = game:GetService("RunService")
